@@ -10,7 +10,7 @@ interface BaseProps {
 }
 
 const variantClasses: Record<Variant, string> = {
-  primary: "bg-ink text-paper hover:bg-ink-800",
+  primary: "bg-signal text-paper hover:bg-signal-600",
   secondary: "border border-ink/30 text-ink hover:border-ink",
   ghost: "text-ink hover:bg-ink/5",
 };

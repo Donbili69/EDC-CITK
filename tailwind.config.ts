@@ -38,6 +38,8 @@ const config: Config = {
           600: v("spark-600"),
         },
         line: v("line"),
+        panel: v("panel"),
+        "on-panel": v("on-panel"),
       },
       fontFamily: {
         display: ["var(--font-display)", "system-ui", "sans-serif"],

@@ -28,7 +28,7 @@ export function Pagination({ currentPage, totalPages, onPageChange }: Pagination
           onClick={() => onPageChange(page)}
           aria-current={page === currentPage ? "page" : undefined}
           className={`h-9 w-9 text-small transition-colors ${
-            page === currentPage ? "bg-ink text-paper" : "text-ink-600 hover:bg-ink/5"
+            page === currentPage ? "bg-signal text-paper" : "text-ink-600 hover:bg-ink/5"
           }`}
         >
           {page}

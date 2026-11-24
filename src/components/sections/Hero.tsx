@@ -1,10 +1,12 @@
 import { Button } from "@/components/ui/Button";
+import { siteConfig } from "@/lib/config/site";
+import { formatDate } from "@/lib/utils/format";
 
 export function Hero() {
   return (
     <section className="grid-field border-b border-line">
       <div className="container-page flex min-h-[70vh] flex-col justify-center py-20 md:py-28">
-        <p className="text-small text-ink-600">Est. 30 July 2022 &middot; CITK</p>
+        <p className="text-small text-ink-600">Est. {formatDate(siteConfig.established)} &middot; CITK</p>
         <h1 className="mt-4 max-w-[18ch] text-display-lg font-medium md:text-display-xl">
           Where student ideas become ventures.
         </h1>

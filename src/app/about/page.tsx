@@ -1,10 +1,14 @@
 import type { Metadata } from "next";
 import { JourneyTimeline } from "@/components/sections/JourneyTimeline";
 import { getAboutContent, getTimeline } from "@/lib/api/about";
+import { siteConfig } from "@/lib/config/site";
+import { formatDate } from "@/lib/utils/format";
+
+const since = formatDate(siteConfig.established);
 
 export const metadata: Metadata = {
   title: "About",
-  description: "About the Entrepreneurship Development Club, CITK: vision, mission, objectives and journey since 30 July 2022.",
+  description: `About the Entrepreneurship Development Club, CITK: vision, mission, objectives and journey since ${since}.`,
 };
 
 export default async function AboutPage() {
@@ -66,7 +70,7 @@ export default async function AboutPage() {
         <div className="container-page">
           <h2 className="text-display-md font-medium">Our journey</h2>
           <p className="mt-2 max-w-prose text-small text-ink-600">
-            From 30 July 2022 to today. Select a milestone to read more.
+            From {since} to today. Select a milestone to read more.
           </p>
           <div className="mt-8">
             <JourneyTimeline milestones={timeline} />

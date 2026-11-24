@@ -6,7 +6,34 @@
   --font-display: "Space Grotesk", system-ui, sans-serif;
   --font-body: "Inter", system-ui, sans-serif;
 
-  /* DARK THEME (default). Values are "R G B" channels. */
+  /* DEFAULT THEME: neutral background, dark text, navy brand colour.
+     Values are "R G B" channels so Tailwind opacity modifiers work. */
+  color-scheme: light;
+  --ink: 20 25 31;
+  --ink-800: 31 38 48;
+  --ink-600: 58 67 80;
+  --ink-400: 107 118 132;
+  --ink-200: 174 182 191;
+  --paper: 246 244 238;
+  --paper-dim: 237 234 225;
+  --line: 216 212 200;
+  /* signal = EDC navy (primary brand colour) */
+  --signal: 23 49 107;
+  --signal-50: 232 237 247;
+  --signal-100: 207 217 238;
+  --signal-600: 18 39 87;
+  --signal-700: 12 28 66;
+  /* spark = the single controlled accent, used sparingly */
+  --spark: 232 163 61;
+  --spark-100: 250 235 210;
+  --spark-600: 150 96 18;
+  /* panel = dark brand surface (footer, ecosystem strip) */
+  --panel: 14 28 64;
+  --on-panel: 246 244 238;
+}
+
+/* Optional dark theme for a future toggle: set data-theme="dark" on <html>. */
+:root[data-theme="dark"] {
   color-scheme: dark;
   --ink: 237 235 228;
   --ink-800: 214 212 205;
@@ -24,27 +51,8 @@
   --spark: 232 163 61;
   --spark-100: 58 42 18;
   --spark-600: 240 184 96;
-}
-
-/* Light theme kept ready for a future toggle: set data-theme="light" on <html>. */
-:root[data-theme="light"] {
-  color-scheme: light;
-  --ink: 20 25 31;
-  --ink-800: 31 38 48;
-  --ink-600: 58 67 80;
-  --ink-400: 107 118 132;
-  --ink-200: 174 182 191;
-  --paper: 246 244 238;
-  --paper-dim: 237 234 225;
-  --line: 216 212 200;
-  --signal: 36 81 224;
-  --signal-50: 234 239 252;
-  --signal-100: 210 220 250;
-  --signal-600: 29 63 184;
-  --signal-700: 22 49 143;
-  --spark: 232 163 61;
-  --spark-100: 250 235 210;
-  --spark-600: 194 126 31;
+  --panel: 22 27 34;
+  --on-panel: 237 235 228;
 }
 
 @layer base {
@@ -56,16 +64,23 @@
     @apply bg-paper text-ink font-body text-body;
   }
 
+  /* Headings inherit colour from their surface (body is text-ink), so they
+     stay readable on dark brand panels too. */
   h1,
   h2,
   h3 {
-    @apply font-display text-ink;
+    @apply font-display;
   }
 
   /* Visible keyboard focus everywhere. Accessibility floor, not optional. */
   :focus-visible {
     outline: 2px solid rgb(var(--signal));
     outline-offset: 2px;
+  }
+  /* On dark brand panels the navy ring would vanish; use the accent there. */
+  footer :focus-visible,
+  .panel :focus-visible {
+    outline-color: rgb(var(--spark));
   }
 
   @media (prefers-reduced-motion: reduce) {
