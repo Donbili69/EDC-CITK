@@ -1,0 +1,259 @@
+[
+  {
+    "coverImage": "/images/events/placeholder.jpg",
+    "organizers": [
+      "EDC CITK",
+      "Events Team"
+    ],
+    "speakers": [
+      {
+        "name": "Guest Judge",
+        "role": "Founder, Example Startup"
+      }
+    ],
+    "schedule": [
+      {
+        "time": "10:00 AM",
+        "item": "Registration & welcome"
+      },
+      {
+        "time": "11:00 AM",
+        "item": "Pitch round"
+      },
+      {
+        "time": "2:00 PM",
+        "item": "Results & feedback"
+      }
+    ],
+    "gallery": [],
+    "relatedEventSlugs": [
+      "ideation-bootcamp-2026",
+      "startup-summit-2025"
+    ],
+    "slug": "startup-pitch-day-2026",
+    "title": "Startup Pitch Day",
+    "status": "upcoming",
+    "date": "2026-10-14",
+    "venue": "CITK Auditorium",
+    "category": "Competition",
+    "academicYear": "2026-27",
+    "description": "Student teams pitch their startup ideas to a panel of mentors and industry guests. Placeholder content: replace with the real event description.",
+    "registrationUrl": "https://example.com/register"
+  },
+  {
+    "coverImage": "/images/events/placeholder.jpg",
+    "organizers": [
+      "EDC CITK"
+    ],
+    "speakers": [
+      {
+        "name": "Guest Speaker",
+        "role": "Co-founder, Example Co."
+      }
+    ],
+    "schedule": [],
+    "gallery": [],
+    "relatedEventSlugs": [
+      "founder-talk-series-01"
+    ],
+    "slug": "founder-talk-series-02",
+    "title": "Founder Talk Series: Scaling from Zero",
+    "status": "upcoming",
+    "date": "2026-10-22",
+    "venue": "Seminar Hall 2",
+    "category": "Talk",
+    "academicYear": "2026-27",
+    "description": "A fireside conversation with a founder on the first 100 customers. Placeholder content.",
+    "registrationUrl": "https://example.com/register"
+  },
+  {
+    "coverImage": "/images/events/placeholder.jpg",
+    "organizers": [
+      "EDC CITK"
+    ],
+    "speakers": [],
+    "schedule": [],
+    "gallery": [],
+    "relatedEventSlugs": [
+      "startup-pitch-day-2026"
+    ],
+    "slug": "ideation-bootcamp-2026",
+    "title": "Ideation Bootcamp",
+    "status": "upcoming",
+    "date": "2026-11-02",
+    "venue": "Innovation Lab",
+    "category": "Workshop",
+    "academicYear": "2026-27",
+    "description": "A hands-on workshop on turning problems into testable startup ideas. Placeholder content."
+  },
+  {
+    "coverImage": "/images/events/placeholder.jpg",
+    "organizers": [
+      "EDC CITK"
+    ],
+    "speakers": [],
+    "schedule": [],
+    "gallery": [],
+    "relatedEventSlugs": [
+      "startup-pitch-day-2026"
+    ],
+    "slug": "idea-sprint-week-2026",
+    "title": "Idea Sprint Week",
+    "status": "ongoing",
+    "date": "2026-10-08",
+    "venue": "Innovation Lab",
+    "category": "Competition",
+    "academicYear": "2026-27",
+    "description": "A week-long sprint where teams validate an idea with real users. Placeholder content."
+  },
+  {
+    "coverImage": "/images/events/placeholder.jpg",
+    "organizers": [
+      "EDC CITK"
+    ],
+    "speakers": [],
+    "schedule": [],
+    "gallery": [
+      "/images/events/p1.jpg",
+      "/images/events/p2.jpg",
+      "/images/events/p3.jpg"
+    ],
+    "relatedEventSlugs": [],
+    "slug": "business-model-workshop-2026",
+    "title": "Business Model Workshop",
+    "status": "past",
+    "date": "2026-09-12",
+    "venue": "Seminar Hall 1",
+    "category": "Workshop",
+    "academicYear": "2026-27",
+    "description": "Participants mapped their ideas onto the business model canvas. Placeholder content.",
+    "report": "Placeholder report: attendance, outcomes and key learnings go here."
+  },
+  {
+    "coverImage": "/images/events/placeholder.jpg",
+    "organizers": [
+      "EDC CITK"
+    ],
+    "speakers": [],
+    "schedule": [],
+    "gallery": [],
+    "relatedEventSlugs": [
+      "edc-induction-2025"
+    ],
+    "slug": "edc-induction-2026",
+    "title": "EDC Induction Meet",
+    "status": "past",
+    "date": "2026-08-19",
+    "venue": "CITK Auditorium",
+    "category": "Orientation",
+    "academicYear": "2026-27",
+    "description": "Welcome session introducing EDC to the new batch. Placeholder content."
+  },
+  {
+    "coverImage": "/images/events/placeholder.jpg",
+    "organizers": [
+      "EDC CITK"
+    ],
+    "speakers": [
+      {
+        "name": "Guest Speaker",
+        "role": "Investor"
+      }
+    ],
+    "schedule": [],
+    "gallery": [
+      "/images/events/s1.jpg",
+      "/images/events/s2.jpg",
+      "/images/events/s3.jpg",
+      "/images/events/s4.jpg"
+    ],
+    "relatedEventSlugs": [
+      "startup-pitch-day-2026"
+    ],
+    "slug": "startup-summit-2025",
+    "title": "Startup Summit",
+    "status": "past",
+    "date": "2025-12-06",
+    "venue": "CITK Auditorium",
+    "category": "Competition",
+    "academicYear": "2025-26",
+    "description": "The annual summit with competitions, talks and a startup expo. Placeholder content.",
+    "report": "Placeholder report for the summit."
+  },
+  {
+    "coverImage": "/images/events/placeholder.jpg",
+    "organizers": [
+      "EDC CITK"
+    ],
+    "speakers": [],
+    "schedule": [],
+    "gallery": [],
+    "relatedEventSlugs": [
+      "founder-talk-series-02"
+    ],
+    "slug": "founder-talk-series-01",
+    "title": "Founder Talk Series: Why Startups Fail",
+    "status": "past",
+    "date": "2025-10-18",
+    "venue": "Seminar Hall 2",
+    "category": "Talk",
+    "academicYear": "2025-26",
+    "description": "A candid talk on failure modes of early-stage startups. Placeholder content."
+  },
+  {
+    "coverImage": "/images/events/placeholder.jpg",
+    "organizers": [
+      "EDC CITK"
+    ],
+    "speakers": [],
+    "schedule": [],
+    "gallery": [],
+    "relatedEventSlugs": [
+      "edc-induction-2026"
+    ],
+    "slug": "edc-induction-2025",
+    "title": "EDC Induction Meet",
+    "status": "past",
+    "date": "2025-08-20",
+    "venue": "CITK Auditorium",
+    "category": "Orientation",
+    "academicYear": "2025-26",
+    "description": "Welcome session for the 2025 batch. Placeholder content."
+  },
+  {
+    "coverImage": "/images/events/placeholder.jpg",
+    "organizers": [
+      "EDC CITK"
+    ],
+    "speakers": [],
+    "schedule": [],
+    "gallery": [],
+    "relatedEventSlugs": [],
+    "slug": "pitch-day-2025",
+    "title": "Pitch Day 2025",
+    "status": "past",
+    "date": "2025-03-15",
+    "venue": "CITK Auditorium",
+    "category": "Competition",
+    "academicYear": "2024-25",
+    "description": "Teams pitched to mentors in the previous academic year. Placeholder content."
+  },
+  {
+    "coverImage": "/images/events/placeholder.jpg",
+    "organizers": [
+      "EDC CITK"
+    ],
+    "speakers": [],
+    "schedule": [],
+    "gallery": [],
+    "relatedEventSlugs": [],
+    "slug": "ideathon-2024",
+    "title": "Ideathon",
+    "status": "past",
+    "date": "2024-11-09",
+    "venue": "Innovation Lab",
+    "category": "Competition",
+    "academicYear": "2024-25",
+    "description": "A one-day ideation competition. Placeholder content."
+  }
+]

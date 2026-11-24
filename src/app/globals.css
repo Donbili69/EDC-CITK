@@ -1,0 +1,121 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-display: "Space Grotesk", system-ui, sans-serif;
+  --font-body: "Inter", system-ui, sans-serif;
+
+  /* DARK THEME (default). Values are "R G B" channels. */
+  color-scheme: dark;
+  --ink: 237 235 228;
+  --ink-800: 214 212 205;
+  --ink-600: 168 172 178;
+  --ink-400: 125 133 144;
+  --ink-200: 74 82 94;
+  --paper: 14 17 22;
+  --paper-dim: 22 27 34;
+  --line: 38 45 55;
+  --signal: 107 140 255;
+  --signal-50: 28 38 77;
+  --signal-100: 38 52 105;
+  --signal-600: 138 163 255;
+  --signal-700: 158 180 255;
+  --spark: 232 163 61;
+  --spark-100: 58 42 18;
+  --spark-600: 240 184 96;
+}
+
+/* Light theme kept ready for a future toggle: set data-theme="light" on <html>. */
+:root[data-theme="light"] {
+  color-scheme: light;
+  --ink: 20 25 31;
+  --ink-800: 31 38 48;
+  --ink-600: 58 67 80;
+  --ink-400: 107 118 132;
+  --ink-200: 174 182 191;
+  --paper: 246 244 238;
+  --paper-dim: 237 234 225;
+  --line: 216 212 200;
+  --signal: 36 81 224;
+  --signal-50: 234 239 252;
+  --signal-100: 210 220 250;
+  --signal-600: 29 63 184;
+  --signal-700: 22 49 143;
+  --spark: 232 163 61;
+  --spark-100: 250 235 210;
+  --spark-600: 194 126 31;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-paper text-ink font-body text-body;
+  }
+
+  h1,
+  h2,
+  h3 {
+    @apply font-display text-ink;
+  }
+
+  /* Visible keyboard focus everywhere. Accessibility floor, not optional. */
+  :focus-visible {
+    outline: 2px solid rgb(var(--signal));
+    outline-offset: 2px;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+}
+
+@layer components {
+  /* Corner-bracket accent: the one recurring structural motif, used on
+     featured cards only. Reserve it for things that deserve a second look. */
+  .bracket {
+    position: relative;
+  }
+  .bracket::before,
+  .bracket::after {
+    content: "";
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    border-color: rgb(var(--signal));
+  }
+  .bracket::before {
+    top: -1px;
+    left: -1px;
+    border-top: 2px solid;
+    border-left: 2px solid;
+  }
+  .bracket::after {
+    bottom: -1px;
+    right: -1px;
+    border-bottom: 2px solid;
+    border-right: 2px solid;
+  }
+
+  /* Thin schematic grid, used behind page heroes only. */
+  .grid-field {
+    background-image:
+      linear-gradient(to right, rgb(var(--line)) 1px, transparent 1px),
+      linear-gradient(to bottom, rgb(var(--line)) 1px, transparent 1px);
+    background-size: 48px 48px;
+  }
+
+  .container-page {
+    @apply mx-auto w-full max-w-6xl px-5 md:px-8;
+  }
+}

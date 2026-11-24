@@ -1,0 +1,30 @@
+[
+  {
+    "id": "m-001",
+    "name": "Member Name",
+    "role": "Chief Convener",
+    "academicYear": "2026-27",
+    "photo": "/images/team/placeholder.jpg"
+  },
+  {
+    "id": "m-002",
+    "name": "Member Name",
+    "role": "Asst. Chief Convener",
+    "academicYear": "2026-27",
+    "photo": "/images/team/placeholder.jpg"
+  },
+  {
+    "id": "m-003",
+    "name": "Member Name",
+    "role": "Convener, Events",
+    "academicYear": "2026-27",
+    "photo": "/images/team/placeholder.jpg"
+  },
+  {
+    "id": "m-004",
+    "name": "Member Name",
+    "role": "Convener, Media",
+    "academicYear": "2026-27",
+    "photo": "/images/team/placeholder.jpg"
+  }
+]

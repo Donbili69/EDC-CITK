@@ -1,0 +1,18 @@
+{
+  "headline": "Built by students who refused to wait for permission to start.",
+  "intro": "Placeholder: replace with a short introduction to EDC CITK in the club's own words.",
+  "vision": "Placeholder: replace with the club's official vision statement.",
+  "mission": "Placeholder: replace with the club's official mission statement.",
+  "objectives": [
+    "Placeholder objective: foster an entrepreneurial mindset among students.",
+    "Placeholder objective: connect students with mentors and industry.",
+    "Placeholder objective: support ideas from first spark to first venture.",
+    "Placeholder objective: build a lasting alumni and startup network."
+  ],
+  "whatWeDo": [
+    { "title": "Events & competitions", "description": "Placeholder: pitch days, ideathons and summits." },
+    { "title": "Workshops & talks", "description": "Placeholder: skill-building sessions and founder talks." },
+    { "title": "Mentorship", "description": "Placeholder: pairing student teams with experienced mentors." },
+    { "title": "Industry connect", "description": "Placeholder: bridging campus ideas and real-world partners." }
+  ]
+}
