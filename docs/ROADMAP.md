@@ -17,7 +17,8 @@ blueprint disagree, the blueprint wins; raise it with the lead.
 - Provisional dark theme on CSS-variable tokens
 
 ## Open tasks
-See `docs/TASKS.md` for the junior task board (levels, patterns, acceptance).
+See `docs/TODO.md` (master checklist and schedule), `docs/TASKS.md` (task briefs)
+and `docs/JUNIOR_INFO.md` (team note).
 
 ## Lead-owned
 - Align design tokens with the official brand and the Figma designs when
