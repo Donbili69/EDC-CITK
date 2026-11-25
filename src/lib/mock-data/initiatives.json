@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "placeholder-initiative-01",
+    "title": "Placeholder: Idea exploration",
+    "description": "Placeholder: replace with an approved initiative description.",
+    "objective": "Placeholder: replace with the approved objective.",
+    "activities": ["Placeholder: add approved idea exploration activities."],
+    "impact": "Placeholder: add approved impact information.",
+    "relatedEventSlugs": ["startup-pitch-day-2026", "ideation-bootcamp-2026"],
+    "academicYear": "2026-27",
+    "gallery": [],
+    "relatedResourceIds": ["resource-01", "resource-03"]
+  },
+  {
+    "slug": "placeholder-initiative-02",
+    "title": "Placeholder: Founder learning series",
+    "description": "Placeholder: replace with an approved initiative description.",
+    "objective": "Placeholder: replace with the approved objective.",
+    "activities": ["Placeholder: add approved learning session activities."],
+    "impact": "Placeholder: add approved impact information.",
+    "relatedEventSlugs": ["founder-talk-series-02"],
+    "academicYear": "2026-27",
+    "gallery": [],
+    "relatedResourceIds": ["resource-04"]
+  },
+  {
+    "slug": "placeholder-initiative-03",
+    "title": "Placeholder: Startup skills workshops",
+    "description": "Placeholder: replace with an approved initiative description.",
+    "objective": "Placeholder: replace with the approved objective.",
+    "activities": [],
+    "impact": "Placeholder: add approved impact information.",
+    "relatedEventSlugs": ["business-model-workshop-2026"],
+    "academicYear": "2026-27",
+    "gallery": [],
+    "relatedResourceIds": ["resource-02"]
+  },
+  {
+    "slug": "placeholder-initiative-04",
+    "title": "Placeholder: Peer idea practice",
+    "description": "Placeholder: replace with an approved initiative description.",
+    "objective": "Placeholder: replace with the approved objective.",
+    "activities": ["Placeholder: add approved peer learning activities."],
+    "impact": "Placeholder: add approved impact information.",
+    "relatedEventSlugs": ["startup-summit-2025", "pitch-day-2025"],
+    "academicYear": "2025-26",
+    "gallery": [],
+    "relatedResourceIds": ["resource-05", "resource-07"]
+  },
+  {
+    "slug": "placeholder-initiative-05",
+    "title": "Placeholder: Campus entrepreneurship introduction",
+    "description": "Placeholder: replace with an approved initiative description.",
+    "objective": "Placeholder: replace with the approved objective.",
+    "activities": ["Placeholder: add approved introductory activities."],
+    "impact": "Placeholder: add approved impact information.",
+    "relatedEventSlugs": ["ideathon-2024", "edc-induction-2025"],
+    "academicYear": "2024-25",
+    "gallery": [],
+    "relatedResourceIds": ["resource-09", "resource-10"]
+  }
+]
