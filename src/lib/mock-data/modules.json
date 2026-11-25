@@ -1,5 +1,15 @@
 [
   {
+    "slug": "events",
+    "name": "Events",
+    "description": "Placeholder: responsibilities for the events module."
+  },
+  {
+    "slug": "media",
+    "name": "Media",
+    "description": "Placeholder: responsibilities for the media module."
+  },
+  {
     "slug": "module-01",
     "name": "Module 01",
     "description": "Placeholder: responsibilities for the first team module."
