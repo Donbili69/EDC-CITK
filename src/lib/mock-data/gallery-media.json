@@ -1,0 +1,199 @@
+[
+  {
+    "id": "gallery-01",
+    "type": "photo",
+    "src": "",
+    "alt": "Placeholder photo from Startup Pitch Day, showing a presentation setup.",
+    "caption": "Placeholder: pitch session",
+    "eventSlug": "startup-pitch-day-2026",
+    "academicYear": "2026-27"
+  },
+  {
+    "id": "gallery-02",
+    "type": "photo",
+    "src": "",
+    "alt": "Placeholder photo from Startup Pitch Day, showing an audience area.",
+    "eventSlug": "startup-pitch-day-2026",
+    "academicYear": "2026-27"
+  },
+  {
+    "id": "gallery-03",
+    "type": "photo",
+    "src": "",
+    "alt": "Placeholder photo from Startup Pitch Day, showing a stage view.",
+    "eventSlug": "startup-pitch-day-2026",
+    "academicYear": "2026-27"
+  },
+  {
+    "id": "gallery-04",
+    "type": "photo",
+    "src": "",
+    "alt": "Placeholder photo from Startup Pitch Day, showing presentation materials.",
+    "eventSlug": "startup-pitch-day-2026",
+    "academicYear": "2026-27"
+  },
+  {
+    "id": "gallery-05",
+    "type": "photo",
+    "src": "",
+    "alt": "Placeholder photo from Startup Pitch Day, showing a discussion area.",
+    "eventSlug": "startup-pitch-day-2026",
+    "academicYear": "2026-27"
+  },
+  {
+    "id": "gallery-06",
+    "type": "video",
+    "src": "",
+    "alt": "Placeholder video from Startup Pitch Day, showing a presentation segment.",
+    "caption": "Placeholder: presentation segment",
+    "eventSlug": "startup-pitch-day-2026",
+    "academicYear": "2026-27"
+  },
+  {
+    "id": "gallery-07",
+    "type": "photo",
+    "src": "",
+    "alt": "Placeholder photo from Ideation Bootcamp, showing a workshop table.",
+    "eventSlug": "ideation-bootcamp-2026",
+    "academicYear": "2026-27"
+  },
+  {
+    "id": "gallery-08",
+    "type": "photo",
+    "src": "",
+    "alt": "Placeholder photo from Ideation Bootcamp, showing a group activity.",
+    "eventSlug": "ideation-bootcamp-2026",
+    "academicYear": "2026-27"
+  },
+  {
+    "id": "gallery-09",
+    "type": "photo",
+    "src": "",
+    "alt": "Placeholder photo from Ideation Bootcamp, showing notes on a board.",
+    "eventSlug": "ideation-bootcamp-2026",
+    "academicYear": "2026-27"
+  },
+  {
+    "id": "gallery-10",
+    "type": "photo",
+    "src": "",
+    "alt": "Placeholder photo from Ideation Bootcamp, showing a team discussion.",
+    "eventSlug": "ideation-bootcamp-2026",
+    "academicYear": "2026-27"
+  },
+  {
+    "id": "gallery-11",
+    "type": "photo",
+    "src": "",
+    "alt": "Placeholder photo from Ideation Bootcamp, showing a planning exercise.",
+    "eventSlug": "ideation-bootcamp-2026",
+    "academicYear": "2026-27"
+  },
+  {
+    "id": "gallery-12",
+    "type": "video",
+    "src": "",
+    "alt": "Placeholder video from Ideation Bootcamp, showing a group activity.",
+    "caption": "Placeholder: workshop activity",
+    "eventSlug": "ideation-bootcamp-2026",
+    "academicYear": "2026-27"
+  },
+  {
+    "id": "gallery-13",
+    "type": "photo",
+    "src": "",
+    "alt": "Placeholder photo from Startup Summit, showing an event hall.",
+    "eventSlug": "startup-summit-2025",
+    "academicYear": "2025-26"
+  },
+  {
+    "id": "gallery-14",
+    "type": "photo",
+    "src": "",
+    "alt": "Placeholder photo from Startup Summit, showing a presentation stage.",
+    "eventSlug": "startup-summit-2025",
+    "academicYear": "2025-26"
+  },
+  {
+    "id": "gallery-15",
+    "type": "photo",
+    "src": "",
+    "alt": "Placeholder photo from Startup Summit, showing a display area.",
+    "eventSlug": "startup-summit-2025",
+    "academicYear": "2025-26"
+  },
+  {
+    "id": "gallery-16",
+    "type": "photo",
+    "src": "",
+    "alt": "Placeholder photo from Startup Summit, showing audience seating.",
+    "eventSlug": "startup-summit-2025",
+    "academicYear": "2025-26"
+  },
+  {
+    "id": "gallery-17",
+    "type": "photo",
+    "src": "",
+    "alt": "Placeholder photo from Startup Summit, showing a discussion session.",
+    "eventSlug": "startup-summit-2025",
+    "academicYear": "2025-26"
+  },
+  {
+    "id": "gallery-18",
+    "type": "video",
+    "src": "",
+    "alt": "Placeholder video from Startup Summit, showing an event introduction.",
+    "caption": "Placeholder: event introduction",
+    "eventSlug": "startup-summit-2025",
+    "academicYear": "2025-26"
+  },
+  {
+    "id": "gallery-19",
+    "type": "photo",
+    "src": "",
+    "alt": "Placeholder photo from Founder Talk Series, showing a speaker area.",
+    "eventSlug": "founder-talk-series-01",
+    "academicYear": "2025-26"
+  },
+  {
+    "id": "gallery-20",
+    "type": "photo",
+    "src": "",
+    "alt": "Placeholder photo from Founder Talk Series, showing an audience view.",
+    "eventSlug": "founder-talk-series-01",
+    "academicYear": "2025-26"
+  },
+  {
+    "id": "gallery-21",
+    "type": "photo",
+    "src": "",
+    "alt": "Placeholder photo from Founder Talk Series, showing a question session.",
+    "eventSlug": "founder-talk-series-01",
+    "academicYear": "2025-26"
+  },
+  {
+    "id": "gallery-22",
+    "type": "photo",
+    "src": "",
+    "alt": "Placeholder photo from Founder Talk Series, showing a seminar room.",
+    "eventSlug": "founder-talk-series-01",
+    "academicYear": "2025-26"
+  },
+  {
+    "id": "gallery-23",
+    "type": "photo",
+    "src": "",
+    "alt": "Placeholder photo from Founder Talk Series, showing the presentation screen.",
+    "eventSlug": "founder-talk-series-01",
+    "academicYear": "2025-26"
+  },
+  {
+    "id": "gallery-24",
+    "type": "video",
+    "src": "",
+    "alt": "Placeholder video from Founder Talk Series, showing a talk segment.",
+    "caption": "Placeholder: talk segment",
+    "eventSlug": "founder-talk-series-01",
+    "academicYear": "2025-26"
+  }
+]

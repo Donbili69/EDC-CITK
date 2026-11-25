@@ -1,0 +1,77 @@
+[
+  {
+    "slug": "placeholder-article-01",
+    "title": "Placeholder: Exploring an early-stage idea",
+    "excerpt": "Placeholder: replace with an approved article summary.",
+    "body": [
+      "Placeholder: replace this paragraph with approved article content.",
+      "Placeholder: add a second plain-text paragraph when content is available."
+    ],
+    "author": "Placeholder: EDC CITK",
+    "publishedAt": "2026-10-12",
+    "coverImage": "",
+    "tags": ["ideas", "entrepreneurship"],
+    "readingMinutes": 4
+  },
+  {
+    "slug": "placeholder-article-02",
+    "title": "Placeholder: Learning from a pitch session",
+    "excerpt": "Placeholder: replace with an approved article summary.",
+    "body": ["Placeholder: replace this paragraph with approved article content."],
+    "author": "Placeholder: EDC CITK",
+    "publishedAt": "2026-09-20",
+    "coverImage": "",
+    "tags": ["events", "ideas"],
+    "readingMinutes": 3
+  },
+  {
+    "slug": "placeholder-article-03",
+    "title": "Placeholder: A guide to team brainstorming",
+    "excerpt": "Placeholder: replace with an approved article summary.",
+    "body": [
+      "Placeholder: replace this paragraph with approved article content.",
+      "Placeholder: add approved reflection or learning points here."
+    ],
+    "author": "Placeholder: EDC CITK",
+    "publishedAt": "2026-08-15",
+    "coverImage": "",
+    "tags": ["ideas", "learning"],
+    "readingMinutes": 5
+  },
+  {
+    "slug": "placeholder-article-04",
+    "title": "Placeholder: Notes from a founder conversation",
+    "excerpt": "Placeholder: replace with an approved article summary.",
+    "body": ["Placeholder: replace this paragraph with approved article content."],
+    "author": "Placeholder: EDC CITK",
+    "publishedAt": "2025-11-18",
+    "coverImage": "",
+    "tags": ["events", "learning"],
+    "readingMinutes": 4
+  },
+  {
+    "slug": "placeholder-article-05",
+    "title": "Placeholder: Turning a problem into a proposal",
+    "excerpt": "Placeholder: replace with an approved article summary.",
+    "body": [
+      "Placeholder: replace this paragraph with approved article content.",
+      "Placeholder: add approved guidance in a second plain-text paragraph."
+    ],
+    "author": "Placeholder: EDC CITK",
+    "publishedAt": "2025-03-10",
+    "coverImage": "",
+    "tags": ["ideas", "entrepreneurship"],
+    "readingMinutes": 6
+  },
+  {
+    "slug": "placeholder-article-06",
+    "title": "Placeholder: Building a learning community",
+    "excerpt": "Placeholder: replace with an approved article summary.",
+    "body": ["Placeholder: replace this paragraph with approved article content."],
+    "author": "Placeholder: EDC CITK",
+    "publishedAt": "2024-12-01",
+    "coverImage": "",
+    "tags": ["learning", "entrepreneurship"],
+    "readingMinutes": 3
+  }
+]
