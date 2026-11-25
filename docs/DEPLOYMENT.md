@@ -42,3 +42,12 @@ process must support serving the Next.js build and serving the generated
 Redeploy the previous known-good build artifact or revert the merge commit and
 run the normal build again. Confirm the same Node major and environment variable
 names during rollback.
+
+## Static hosting caveat
+
+`npm run build` produces a Next.js server build (`.next/`), not a folder of
+plain static files. Hosting on a static-only platform requires enabling
+`output: "export"` in `next.config.js`, a frozen file that needs the lead's
+approval. A static export also does not support the default `next/image`
+optimizer, so images would need `images.unoptimized` or a custom loader.
+Decide the hosting model before the image-heavy pages (gallery, team) are built.
