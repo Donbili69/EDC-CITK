@@ -1,0 +1,14 @@
+[
+  {
+    "id": "announcement-active",
+    "message": "Placeholder: add an approved current announcement.",
+    "startsAt": "2026-01-01T00:00:00.000Z",
+    "endsAt": "2026-12-31T23:59:59.999Z"
+  },
+  {
+    "id": "announcement-expired",
+    "message": "Placeholder: add an approved archived announcement.",
+    "startsAt": "2025-01-01T00:00:00.000Z",
+    "endsAt": "2025-12-31T23:59:59.999Z"
+  }
+]

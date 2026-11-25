@@ -1,0 +1,263 @@
+[
+  {
+    "id": "team-2026-27-01",
+    "name": "Placeholder Member 01",
+    "role": "Faculty Mentor",
+    "tier": "faculty-mentor",
+    "academicYear": "2026-27",
+    "photo": ""
+  },
+  {
+    "id": "team-2026-27-02",
+    "name": "Placeholder Member 02",
+    "role": "Club Advisor",
+    "tier": "advisor",
+    "academicYear": "2026-27",
+    "photo": ""
+  },
+  {
+    "id": "team-2026-27-03",
+    "name": "Placeholder Member 03",
+    "role": "Club Advisor",
+    "tier": "advisor",
+    "academicYear": "2026-27",
+    "photo": ""
+  },
+  {
+    "id": "team-2026-27-04",
+    "name": "Placeholder Member 04",
+    "role": "Chief Convener",
+    "tier": "chief",
+    "academicYear": "2026-27",
+    "photo": ""
+  },
+  {
+    "id": "team-2026-27-05",
+    "name": "Placeholder Member 05",
+    "role": "Assistant Chief Convener",
+    "tier": "chief",
+    "academicYear": "2026-27",
+    "photo": ""
+  },
+  {
+    "id": "team-2026-27-06",
+    "name": "Placeholder Member 06",
+    "role": "Convener, Module 01",
+    "tier": "convener",
+    "moduleSlug": "module-01",
+    "academicYear": "2026-27",
+    "photo": ""
+  },
+  {
+    "id": "team-2026-27-07",
+    "name": "Placeholder Member 07",
+    "role": "Convener, Module 02",
+    "tier": "convener",
+    "moduleSlug": "module-02",
+    "academicYear": "2026-27",
+    "photo": ""
+  },
+  {
+    "id": "team-2026-27-08",
+    "name": "Placeholder Member 08",
+    "role": "Convener, Module 03",
+    "tier": "convener",
+    "moduleSlug": "module-03",
+    "academicYear": "2026-27",
+    "photo": ""
+  },
+  {
+    "id": "team-2026-27-09",
+    "name": "Placeholder Member 09",
+    "role": "Convener, Module 04",
+    "tier": "convener",
+    "moduleSlug": "module-04",
+    "academicYear": "2026-27",
+    "photo": ""
+  },
+  {
+    "id": "team-2026-27-10",
+    "name": "Placeholder Member 10",
+    "role": "Convener, Module 05",
+    "tier": "convener",
+    "moduleSlug": "module-05",
+    "academicYear": "2026-27",
+    "photo": ""
+  },
+  {
+    "id": "team-2026-27-11",
+    "name": "Placeholder Member 11",
+    "role": "In-charge, Module 01",
+    "tier": "incharge",
+    "moduleSlug": "module-01",
+    "academicYear": "2026-27",
+    "photo": ""
+  },
+  {
+    "id": "team-2026-27-12",
+    "name": "Placeholder Member 12",
+    "role": "In-charge, Module 02",
+    "tier": "incharge",
+    "moduleSlug": "module-02",
+    "academicYear": "2026-27",
+    "photo": ""
+  },
+  {
+    "id": "team-2026-27-13",
+    "name": "Placeholder Member 13",
+    "role": "Coordinator, Module 01",
+    "tier": "coordinator",
+    "moduleSlug": "module-01",
+    "academicYear": "2026-27",
+    "photo": ""
+  },
+  {
+    "id": "team-2026-27-14",
+    "name": "Placeholder Member 14",
+    "role": "Coordinator, Module 03",
+    "tier": "coordinator",
+    "moduleSlug": "module-03",
+    "academicYear": "2026-27",
+    "photo": ""
+  },
+  {
+    "id": "team-2026-27-15",
+    "name": "Placeholder Member 15",
+    "role": "Placeholder: Coordinator for Cross-Module Student Startup Support and Outreach",
+    "tier": "coordinator",
+    "moduleSlug": "module-05",
+    "academicYear": "2026-27",
+    "photo": "",
+    "bio": "Placeholder: replace with an approved member biography."
+  },
+  {
+    "id": "team-2025-26-01",
+    "name": "Placeholder Member 16",
+    "role": "Faculty Mentor",
+    "tier": "faculty-mentor",
+    "academicYear": "2025-26",
+    "photo": ""
+  },
+  {
+    "id": "team-2025-26-02",
+    "name": "Placeholder Member 17",
+    "role": "Club Advisor",
+    "tier": "advisor",
+    "academicYear": "2025-26",
+    "photo": ""
+  },
+  {
+    "id": "team-2025-26-03",
+    "name": "Placeholder Member 18",
+    "role": "Club Advisor",
+    "tier": "advisor",
+    "academicYear": "2025-26",
+    "photo": ""
+  },
+  {
+    "id": "team-2025-26-04",
+    "name": "Placeholder Member 19",
+    "role": "Chief Convener",
+    "tier": "chief",
+    "academicYear": "2025-26",
+    "photo": ""
+  },
+  {
+    "id": "team-2025-26-05",
+    "name": "Placeholder Member 20",
+    "role": "Assistant Chief Convener",
+    "tier": "chief",
+    "academicYear": "2025-26",
+    "photo": ""
+  },
+  {
+    "id": "team-2025-26-06",
+    "name": "Placeholder Member 21",
+    "role": "Convener, Module 01",
+    "tier": "convener",
+    "moduleSlug": "module-01",
+    "academicYear": "2025-26",
+    "photo": ""
+  },
+  {
+    "id": "team-2025-26-07",
+    "name": "Placeholder Member 22",
+    "role": "Convener, Module 02",
+    "tier": "convener",
+    "moduleSlug": "module-02",
+    "academicYear": "2025-26",
+    "photo": ""
+  },
+  {
+    "id": "team-2025-26-08",
+    "name": "Placeholder Member 23",
+    "role": "Convener, Module 03",
+    "tier": "convener",
+    "moduleSlug": "module-03",
+    "academicYear": "2025-26",
+    "photo": ""
+  },
+  {
+    "id": "team-2025-26-09",
+    "name": "Placeholder Member 24",
+    "role": "Convener, Module 04",
+    "tier": "convener",
+    "moduleSlug": "module-04",
+    "academicYear": "2025-26",
+    "photo": ""
+  },
+  {
+    "id": "team-2025-26-10",
+    "name": "Placeholder Member 25",
+    "role": "Convener, Module 05",
+    "tier": "convener",
+    "moduleSlug": "module-05",
+    "academicYear": "2025-26",
+    "photo": ""
+  },
+  {
+    "id": "team-2025-26-11",
+    "name": "Placeholder Member 26",
+    "role": "In-charge, Module 01",
+    "tier": "incharge",
+    "moduleSlug": "module-01",
+    "academicYear": "2025-26",
+    "photo": ""
+  },
+  {
+    "id": "team-2025-26-12",
+    "name": "Placeholder Member 27",
+    "role": "In-charge, Module 02",
+    "tier": "incharge",
+    "moduleSlug": "module-02",
+    "academicYear": "2025-26",
+    "photo": ""
+  },
+  {
+    "id": "team-2025-26-13",
+    "name": "Placeholder Member 28",
+    "role": "Coordinator, Module 01",
+    "tier": "coordinator",
+    "moduleSlug": "module-01",
+    "academicYear": "2025-26",
+    "photo": ""
+  },
+  {
+    "id": "team-2025-26-14",
+    "name": "Placeholder Member 29",
+    "role": "Coordinator, Module 03",
+    "tier": "coordinator",
+    "moduleSlug": "module-03",
+    "academicYear": "2025-26",
+    "photo": ""
+  },
+  {
+    "id": "team-2025-26-15",
+    "name": "Placeholder Member 30",
+    "role": "Coordinator, Module 05",
+    "tier": "coordinator",
+    "moduleSlug": "module-05",
+    "academicYear": "2025-26",
+    "photo": ""
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "students",
+    "label": "Students",
+    "order": 1,
+    "summary": "Placeholder: student participation in the ecosystem.",
+    "href": "/ecosystem/students"
+  },
+  {
+    "id": "ideas",
+    "label": "Ideas",
+    "order": 2,
+    "summary": "Placeholder: idea development in the ecosystem.",
+    "href": "/ecosystem/ideas-innovation"
+  },
+  {
+    "id": "edc",
+    "label": "EDC",
+    "order": 3,
+    "summary": "Placeholder: the club's role in the ecosystem.",
+    "href": "/about"
+  },
+  {
+    "id": "mentorship",
+    "label": "Mentorship",
+    "order": 4,
+    "summary": "Placeholder: mentorship in the ecosystem.",
+    "href": "/ecosystem/mentorship"
+  },
+  {
+    "id": "competitions",
+    "label": "Competitions",
+    "order": 5,
+    "summary": "Placeholder: competitions in the ecosystem.",
+    "href": "/events"
+  },
+  {
+    "id": "industry",
+    "label": "Industry",
+    "order": 6,
+    "summary": "Placeholder: industry connections in the ecosystem.",
+    "href": "/ecosystem/industry-connect"
+  },
+  {
+    "id": "startups",
+    "label": "Startups",
+    "order": 7,
+    "summary": "Placeholder: startups in the ecosystem.",
+    "href": "/ecosystem/entrepreneurship"
+  },
+  {
+    "id": "alumni",
+    "label": "Alumni",
+    "order": 8,
+    "summary": "Placeholder: alumni participation in the ecosystem.",
+    "href": "/ecosystem/alumni"
+  }
+]

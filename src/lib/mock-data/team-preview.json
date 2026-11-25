@@ -1,30 +1,36 @@
 [
   {
     "id": "m-001",
-    "name": "Member Name",
+    "name": "Placeholder Member 01",
     "role": "Chief Convener",
+    "tier": "chief",
     "academicYear": "2026-27",
-    "photo": "/images/team/placeholder.jpg"
+    "photo": ""
   },
   {
     "id": "m-002",
-    "name": "Member Name",
+    "name": "Placeholder Member 02",
     "role": "Asst. Chief Convener",
+    "tier": "chief",
     "academicYear": "2026-27",
-    "photo": "/images/team/placeholder.jpg"
+    "photo": ""
   },
   {
     "id": "m-003",
-    "name": "Member Name",
+    "name": "Placeholder Member 03",
     "role": "Convener, Events",
+    "tier": "convener",
+    "moduleSlug": "events",
     "academicYear": "2026-27",
-    "photo": "/images/team/placeholder.jpg"
+    "photo": ""
   },
   {
     "id": "m-004",
-    "name": "Member Name",
+    "name": "Placeholder Member 04",
     "role": "Convener, Media",
+    "tier": "convener",
+    "moduleSlug": "media",
     "academicYear": "2026-27",
-    "photo": "/images/team/placeholder.jpg"
+    "photo": ""
   }
 ]

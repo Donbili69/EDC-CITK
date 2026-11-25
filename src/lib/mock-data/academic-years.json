@@ -1,0 +1,17 @@
+[
+  {
+    "id": "2026-27",
+    "startYear": 2026,
+    "isCurrent": true
+  },
+  {
+    "id": "2025-26",
+    "startYear": 2025,
+    "isCurrent": false
+  },
+  {
+    "id": "2024-25",
+    "startYear": 2024,
+    "isCurrent": false
+  }
+]

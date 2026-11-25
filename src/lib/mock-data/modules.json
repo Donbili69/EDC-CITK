@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "events",
+    "name": "Events",
+    "description": "Placeholder: responsibilities for the events module."
+  },
+  {
+    "slug": "media",
+    "name": "Media",
+    "description": "Placeholder: responsibilities for the media module."
+  },
+  {
+    "slug": "module-01",
+    "name": "Module 01",
+    "description": "Placeholder: responsibilities for the first team module."
+  },
+  {
+    "slug": "module-02",
+    "name": "Module 02",
+    "description": "Placeholder: responsibilities for the second team module."
+  },
+  {
+    "slug": "module-03",
+    "name": "Module 03",
+    "description": "Placeholder: responsibilities for the third team module."
+  },
+  {
+    "slug": "module-04",
+    "name": "Module 04",
+    "description": "Placeholder: responsibilities for the fourth team module."
+  },
+  {
+    "slug": "module-05",
+    "name": "Module 05",
+    "description": "Placeholder: responsibilities for the fifth team module."
+  },
+  {
+    "slug": "module-06",
+    "name": "Module 06",
+    "description": "Placeholder: responsibilities for the sixth team module."
+  }
+]

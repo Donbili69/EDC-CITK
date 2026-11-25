@@ -1,0 +1,114 @@
+[
+  {
+    "id": "achievement-01",
+    "title": "Placeholder: Competition participation",
+    "category": "competitions",
+    "description": "Placeholder: replace with an approved competition achievement.",
+    "date": "2024-10-12",
+    "academicYear": "2024-25"
+  },
+  {
+    "id": "achievement-02",
+    "title": "Placeholder: Recognition",
+    "category": "recognition",
+    "description": "Placeholder: replace with an approved recognition achievement.",
+    "date": "2024-11-18",
+    "academicYear": "2024-25"
+  },
+  {
+    "id": "achievement-03",
+    "title": "Placeholder: Innovation showcase",
+    "category": "innovation",
+    "description": "Placeholder: replace with an approved innovation achievement.",
+    "date": "2025-01-21",
+    "academicYear": "2024-25"
+  },
+  {
+    "id": "achievement-04",
+    "title": "Placeholder: Entrepreneurship milestone",
+    "category": "entrepreneurship",
+    "description": "Placeholder: replace with an approved entrepreneurship achievement.",
+    "date": "2025-02-14",
+    "academicYear": "2024-25"
+  },
+  {
+    "id": "achievement-05",
+    "title": "Placeholder: Collaboration",
+    "category": "collaborations",
+    "description": "Placeholder: replace with an approved collaboration achievement.",
+    "date": "2025-03-08",
+    "academicYear": "2024-25"
+  },
+  {
+    "id": "achievement-06",
+    "title": "Placeholder: Institutional milestone",
+    "category": "institutional",
+    "description": "Placeholder: replace with an approved institutional achievement.",
+    "date": "2025-09-10",
+    "academicYear": "2025-26"
+  },
+  {
+    "id": "achievement-07",
+    "title": "Placeholder: Team and student contribution",
+    "category": "team-student-achievements",
+    "description": "Placeholder: replace with an approved team or student achievement.",
+    "date": "2025-10-22",
+    "academicYear": "2025-26"
+  },
+  {
+    "id": "achievement-08",
+    "title": "Placeholder: Competition result",
+    "category": "competitions",
+    "description": "Placeholder: replace with an approved competition result.",
+    "date": "2025-11-16",
+    "academicYear": "2025-26"
+  },
+  {
+    "id": "achievement-09",
+    "title": "Placeholder: Innovation recognition",
+    "category": "innovation",
+    "description": "Placeholder: replace with an approved innovation recognition.",
+    "date": "2026-01-19",
+    "academicYear": "2025-26"
+  },
+  {
+    "id": "achievement-10",
+    "title": "Placeholder: Entrepreneurship initiative",
+    "category": "entrepreneurship",
+    "description": "Placeholder: replace with an approved entrepreneurship achievement.",
+    "date": "2026-03-05",
+    "academicYear": "2025-26"
+  },
+  {
+    "id": "achievement-11",
+    "title": "Placeholder: Community collaboration",
+    "category": "collaborations",
+    "description": "Placeholder: replace with an approved collaboration achievement.",
+    "date": "2026-08-17",
+    "academicYear": "2026-27"
+  },
+  {
+    "id": "achievement-12",
+    "title": "Placeholder: Institutional recognition",
+    "category": "institutional",
+    "description": "Placeholder: replace with an approved institutional achievement.",
+    "date": "2026-09-04",
+    "academicYear": "2026-27"
+  },
+  {
+    "id": "achievement-13",
+    "title": "Placeholder: Student team milestone",
+    "category": "team-student-achievements",
+    "description": "Placeholder: replace with an approved team or student achievement.",
+    "date": "2026-10-11",
+    "academicYear": "2026-27"
+  },
+  {
+    "id": "achievement-14",
+    "title": "Placeholder: Recognition at an event",
+    "category": "recognition",
+    "description": "Placeholder: replace with an approved recognition achievement.",
+    "date": "2026-11-02",
+    "academicYear": "2026-27"
+  }
+]

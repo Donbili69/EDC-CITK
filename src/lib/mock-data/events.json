@@ -1,10 +1,7 @@
 [
   {
-    "coverImage": "/images/events/placeholder.jpg",
-    "organizers": [
-      "EDC CITK",
-      "Events Team"
-    ],
+    "coverImage": "",
+    "organizers": ["EDC CITK", "Events Team"],
     "speakers": [
       {
         "name": "Guest Judge",
@@ -26,10 +23,7 @@
       }
     ],
     "gallery": [],
-    "relatedEventSlugs": [
-      "ideation-bootcamp-2026",
-      "startup-summit-2025"
-    ],
+    "relatedEventSlugs": ["ideation-bootcamp-2026", "startup-summit-2025"],
     "slug": "startup-pitch-day-2026",
     "title": "Startup Pitch Day",
     "status": "upcoming",
@@ -41,10 +35,8 @@
     "registrationUrl": "https://example.com/register"
   },
   {
-    "coverImage": "/images/events/placeholder.jpg",
-    "organizers": [
-      "EDC CITK"
-    ],
+    "coverImage": "",
+    "organizers": ["EDC CITK"],
     "speakers": [
       {
         "name": "Guest Speaker",
@@ -53,9 +45,7 @@
     ],
     "schedule": [],
     "gallery": [],
-    "relatedEventSlugs": [
-      "founder-talk-series-01"
-    ],
+    "relatedEventSlugs": ["founder-talk-series-01"],
     "slug": "founder-talk-series-02",
     "title": "Founder Talk Series: Scaling from Zero",
     "status": "upcoming",
@@ -67,16 +57,12 @@
     "registrationUrl": "https://example.com/register"
   },
   {
-    "coverImage": "/images/events/placeholder.jpg",
-    "organizers": [
-      "EDC CITK"
-    ],
+    "coverImage": "",
+    "organizers": ["EDC CITK"],
     "speakers": [],
     "schedule": [],
     "gallery": [],
-    "relatedEventSlugs": [
-      "startup-pitch-day-2026"
-    ],
+    "relatedEventSlugs": ["startup-pitch-day-2026"],
     "slug": "ideation-bootcamp-2026",
     "title": "Ideation Bootcamp",
     "status": "upcoming",
@@ -87,16 +73,12 @@
     "description": "A hands-on workshop on turning problems into testable startup ideas. Placeholder content."
   },
   {
-    "coverImage": "/images/events/placeholder.jpg",
-    "organizers": [
-      "EDC CITK"
-    ],
+    "coverImage": "",
+    "organizers": ["EDC CITK"],
     "speakers": [],
     "schedule": [],
     "gallery": [],
-    "relatedEventSlugs": [
-      "startup-pitch-day-2026"
-    ],
+    "relatedEventSlugs": ["startup-pitch-day-2026"],
     "slug": "idea-sprint-week-2026",
     "title": "Idea Sprint Week",
     "status": "ongoing",
@@ -107,17 +89,11 @@
     "description": "A week-long sprint where teams validate an idea with real users. Placeholder content."
   },
   {
-    "coverImage": "/images/events/placeholder.jpg",
-    "organizers": [
-      "EDC CITK"
-    ],
+    "coverImage": "",
+    "organizers": ["EDC CITK"],
     "speakers": [],
     "schedule": [],
-    "gallery": [
-      "/images/events/p1.jpg",
-      "/images/events/p2.jpg",
-      "/images/events/p3.jpg"
-    ],
+    "gallery": ["", "", ""],
     "relatedEventSlugs": [],
     "slug": "business-model-workshop-2026",
     "title": "Business Model Workshop",
@@ -130,16 +106,12 @@
     "report": "Placeholder report: attendance, outcomes and key learnings go here."
   },
   {
-    "coverImage": "/images/events/placeholder.jpg",
-    "organizers": [
-      "EDC CITK"
-    ],
+    "coverImage": "",
+    "organizers": ["EDC CITK"],
     "speakers": [],
     "schedule": [],
     "gallery": [],
-    "relatedEventSlugs": [
-      "edc-induction-2025"
-    ],
+    "relatedEventSlugs": ["edc-induction-2025"],
     "slug": "edc-induction-2026",
     "title": "EDC Induction Meet",
     "status": "past",
@@ -150,10 +122,8 @@
     "description": "Welcome session introducing EDC to the new batch. Placeholder content."
   },
   {
-    "coverImage": "/images/events/placeholder.jpg",
-    "organizers": [
-      "EDC CITK"
-    ],
+    "coverImage": "",
+    "organizers": ["EDC CITK"],
     "speakers": [
       {
         "name": "Guest Speaker",
@@ -161,15 +131,8 @@
       }
     ],
     "schedule": [],
-    "gallery": [
-      "/images/events/s1.jpg",
-      "/images/events/s2.jpg",
-      "/images/events/s3.jpg",
-      "/images/events/s4.jpg"
-    ],
-    "relatedEventSlugs": [
-      "startup-pitch-day-2026"
-    ],
+    "gallery": ["", "", "", ""],
+    "relatedEventSlugs": ["startup-pitch-day-2026"],
     "slug": "startup-summit-2025",
     "title": "Startup Summit",
     "status": "past",
@@ -181,16 +144,12 @@
     "report": "Placeholder report for the summit."
   },
   {
-    "coverImage": "/images/events/placeholder.jpg",
-    "organizers": [
-      "EDC CITK"
-    ],
+    "coverImage": "",
+    "organizers": ["EDC CITK"],
     "speakers": [],
     "schedule": [],
     "gallery": [],
-    "relatedEventSlugs": [
-      "founder-talk-series-02"
-    ],
+    "relatedEventSlugs": ["founder-talk-series-02"],
     "slug": "founder-talk-series-01",
     "title": "Founder Talk Series: Why Startups Fail",
     "status": "past",
@@ -201,16 +160,12 @@
     "description": "A candid talk on failure modes of early-stage startups. Placeholder content."
   },
   {
-    "coverImage": "/images/events/placeholder.jpg",
-    "organizers": [
-      "EDC CITK"
-    ],
+    "coverImage": "",
+    "organizers": ["EDC CITK"],
     "speakers": [],
     "schedule": [],
     "gallery": [],
-    "relatedEventSlugs": [
-      "edc-induction-2026"
-    ],
+    "relatedEventSlugs": ["edc-induction-2026"],
     "slug": "edc-induction-2025",
     "title": "EDC Induction Meet",
     "status": "past",
@@ -221,10 +176,8 @@
     "description": "Welcome session for the 2025 batch. Placeholder content."
   },
   {
-    "coverImage": "/images/events/placeholder.jpg",
-    "organizers": [
-      "EDC CITK"
-    ],
+    "coverImage": "",
+    "organizers": ["EDC CITK"],
     "speakers": [],
     "schedule": [],
     "gallery": [],
@@ -239,10 +192,8 @@
     "description": "Teams pitched to mentors in the previous academic year. Placeholder content."
   },
   {
-    "coverImage": "/images/events/placeholder.jpg",
-    "organizers": [
-      "EDC CITK"
-    ],
+    "coverImage": "",
+    "organizers": ["EDC CITK"],
     "speakers": [],
     "schedule": [],
     "gallery": [],

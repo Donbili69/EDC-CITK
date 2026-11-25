@@ -1,0 +1,142 @@
+[
+  {
+    "id": "alumni-01",
+    "name": "Placeholder Alumni 01",
+    "graduationYear": 2022,
+    "department": "Placeholder Department 01",
+    "edcRole": "Placeholder: EDC role for alumni record 01.",
+    "currentPosition": "Placeholder: Current position 01.",
+    "organization": "Placeholder Organization 01",
+    "message": "Placeholder: approved alumni message goes here."
+  },
+  {
+    "id": "alumni-02",
+    "name": "Placeholder Alumni 02",
+    "graduationYear": 2023,
+    "department": "Placeholder Department 02",
+    "edcRole": "Placeholder: EDC role for alumni record 02.",
+    "currentPosition": "Placeholder: Current position 02.",
+    "organization": "Placeholder Organization 02"
+  },
+  {
+    "id": "alumni-03",
+    "name": "Placeholder Alumni 03",
+    "graduationYear": 2024,
+    "department": "Placeholder Department 03",
+    "edcRole": "Placeholder: EDC role for alumni record 03.",
+    "currentPosition": "Placeholder: Current position 03.",
+    "organization": "Placeholder Organization 03"
+  },
+  {
+    "id": "alumni-04",
+    "name": "Placeholder Alumni 04",
+    "graduationYear": 2025,
+    "department": "Placeholder Department 04",
+    "edcRole": "Placeholder: EDC role for alumni record 04.",
+    "currentPosition": "Placeholder: Current position 04.",
+    "organization": "Placeholder Organization 04",
+    "message": "Placeholder: approved alumni message goes here."
+  },
+  {
+    "id": "alumni-05",
+    "name": "Placeholder Alumni 05",
+    "graduationYear": 2022,
+    "department": "Placeholder Department 02",
+    "edcRole": "Placeholder: EDC role for alumni record 05.",
+    "currentPosition": "Placeholder: Current position 05.",
+    "organization": "Placeholder Organization 05"
+  },
+  {
+    "id": "alumni-06",
+    "name": "Placeholder Alumni 06",
+    "graduationYear": 2023,
+    "department": "Placeholder Department 03",
+    "edcRole": "Placeholder: EDC role for alumni record 06.",
+    "currentPosition": "Placeholder: Current position 06.",
+    "organization": "Placeholder Organization 06",
+    "message": "Placeholder: approved alumni message goes here."
+  },
+  {
+    "id": "alumni-07",
+    "name": "Placeholder Alumni 07",
+    "graduationYear": 2024,
+    "department": "Placeholder Department 04",
+    "edcRole": "Placeholder: EDC role for alumni record 07.",
+    "currentPosition": "Placeholder: Current position 07.",
+    "organization": "Placeholder Organization 07"
+  },
+  {
+    "id": "alumni-08",
+    "name": "Placeholder Alumni 08",
+    "graduationYear": 2025,
+    "department": "Placeholder Department 01",
+    "edcRole": "Placeholder: EDC role for alumni record 08.",
+    "currentPosition": "Placeholder: Current position 08.",
+    "organization": "Placeholder Organization 08"
+  },
+  {
+    "id": "alumni-09",
+    "name": "Placeholder Alumni 09",
+    "graduationYear": 2022,
+    "department": "Placeholder Department 03",
+    "edcRole": "Placeholder: EDC role for alumni record 09.",
+    "currentPosition": "Placeholder: Current position 09.",
+    "organization": "Placeholder Organization 09"
+  },
+  {
+    "id": "alumni-10",
+    "name": "Placeholder Alumni 10",
+    "graduationYear": 2023,
+    "department": "Placeholder Department 04",
+    "edcRole": "Placeholder: EDC role for alumni record 10.",
+    "currentPosition": "Placeholder: Current position 10.",
+    "organization": "Placeholder Organization 10",
+    "message": "Placeholder: approved alumni message goes here."
+  },
+  {
+    "id": "alumni-11",
+    "name": "Placeholder Alumni 11",
+    "graduationYear": 2024,
+    "department": "Placeholder Department 01",
+    "edcRole": "Placeholder: EDC role for alumni record 11.",
+    "currentPosition": "Placeholder: Current position 11.",
+    "organization": "Placeholder Organization 11"
+  },
+  {
+    "id": "alumni-12",
+    "name": "Placeholder Alumni 12",
+    "graduationYear": 2025,
+    "department": "Placeholder Department 02",
+    "edcRole": "Placeholder: EDC role for alumni record 12.",
+    "currentPosition": "Placeholder: Current position 12.",
+    "organization": "Placeholder Organization 12"
+  },
+  {
+    "id": "alumni-13",
+    "name": "Placeholder Alumni 13",
+    "graduationYear": 2022,
+    "department": "Placeholder Department 04",
+    "edcRole": "Placeholder: EDC role for alumni record 13.",
+    "currentPosition": "Placeholder: Current position 13.",
+    "organization": "Placeholder Organization 13",
+    "message": "Placeholder: approved alumni message goes here."
+  },
+  {
+    "id": "alumni-14",
+    "name": "Placeholder Alumni 14",
+    "graduationYear": 2023,
+    "department": "Placeholder Department 01",
+    "edcRole": "Placeholder: EDC role for alumni record 14.",
+    "currentPosition": "Placeholder: Current position 14.",
+    "organization": "Placeholder Organization 14"
+  },
+  {
+    "id": "alumni-15",
+    "name": "Placeholder Alumni 15",
+    "graduationYear": 2024,
+    "department": "Placeholder Department 02",
+    "edcRole": "Placeholder: EDC role for alumni record 15.",
+    "currentPosition": "Placeholder: Current position 15.",
+    "organization": "Placeholder Organization 15"
+  }
+]
