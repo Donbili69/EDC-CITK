@@ -5,7 +5,7 @@
     "role": "Chief Convener",
     "tier": "chief",
     "academicYear": "2026-27",
-    "photo": "/images/team/placeholder.jpg"
+    "photo": ""
   },
   {
     "id": "m-002",
@@ -13,7 +13,7 @@
     "role": "Asst. Chief Convener",
     "tier": "chief",
     "academicYear": "2026-27",
-    "photo": "/images/team/placeholder.jpg"
+    "photo": ""
   },
   {
     "id": "m-003",
@@ -22,7 +22,7 @@
     "tier": "convener",
     "moduleSlug": "events",
     "academicYear": "2026-27",
-    "photo": "/images/team/placeholder.jpg"
+    "photo": ""
   },
   {
     "id": "m-004",
@@ -31,6 +31,6 @@
     "tier": "convener",
     "moduleSlug": "media",
     "academicYear": "2026-27",
-    "photo": "/images/team/placeholder.jpg"
+    "photo": ""
   }
 ]
