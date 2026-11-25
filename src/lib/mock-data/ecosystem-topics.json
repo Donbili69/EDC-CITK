@@ -1,0 +1,50 @@
+[
+  {
+    "slug": "students",
+    "title": "Students",
+    "stage": 1,
+    "summary": "Placeholder: approved information about student participation.",
+    "body": ["Placeholder: add approved information about student participation."],
+    "nodeLabel": "Students"
+  },
+  {
+    "slug": "ideas-innovation",
+    "title": "Ideas & Innovation",
+    "stage": 2,
+    "summary": "Placeholder: approved information about ideas and innovation.",
+    "body": ["Placeholder: add approved information about ideas and innovation."],
+    "nodeLabel": "Ideas"
+  },
+  {
+    "slug": "mentorship",
+    "title": "Mentorship",
+    "stage": 3,
+    "summary": "Placeholder: approved information about mentorship.",
+    "body": ["Placeholder: add approved information about mentorship."],
+    "nodeLabel": "Mentorship"
+  },
+  {
+    "slug": "industry-connect",
+    "title": "Industry Connect",
+    "stage": 4,
+    "summary": "Placeholder: approved information about industry connections.",
+    "body": ["Placeholder: add approved information about industry connections."],
+    "nodeLabel": "Industry"
+  },
+  {
+    "slug": "alumni",
+    "title": "Alumni",
+    "stage": 5,
+    "summary": "Placeholder: approved information about the alumni network.",
+    "body": ["Placeholder: add approved information about the alumni network."],
+    "nodeLabel": "Alumni"
+  },
+  {
+    "slug": "entrepreneurship",
+    "title": "Entrepreneurship",
+    "stage": 6,
+    "summary": "Placeholder: approved information about entrepreneurship.",
+    "body": ["Placeholder: add approved information about entrepreneurship."],
+    "nodeLabel": "Startups"
+  }
+]

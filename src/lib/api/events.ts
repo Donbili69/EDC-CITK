@@ -39,6 +39,14 @@ export async function getUpcomingEvents(limit = 3): Promise<EventSummary[]> {
     .slice(0, limit);
 }
 
+export async function getRecentEvents(limit: number): Promise<EventSummary[]> {
+  const events = await getEvents({ status: "past" });
+
+  return events
+    .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
+    .slice(0, limit);
+}
+
 export async function getEventBySlug(slug: string): Promise<EventDetail | null> {
   return allEvents.find((e) => e.slug === slug) ?? null;
 }
